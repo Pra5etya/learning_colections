@@ -1,4 +1,4 @@
-# Learning List Collections ✨
+# Learning Progress Collections ✨
 
 ## Data
 
